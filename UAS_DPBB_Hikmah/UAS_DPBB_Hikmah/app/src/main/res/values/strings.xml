@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS_DPBB_Hikmah</string>
+    <string name="home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="fragment_home">Fragment Home</string>
+    <string name="fragment_list">Fragment List</string>
+    <string name="fragment_profile">Fragment Profile</string>
+
+    </resources>
